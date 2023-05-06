@@ -1,6 +1,7 @@
 # Smart-Walkway-Lantern
+## Still a work in progress...
 
-<center><img src="/docs/images/Title.jpg" height="400"> <img src="/docs/images/LanternRender.png" height="400"></center>
+<center><img src="/docs/images/Title.jpg" height="400"> <img src="/docs/images/LanternRender.png" height="400"> <img src="/docs/images/Walkway.jpg" height="400"></center>
 
 ## Project Introduction
 
@@ -31,3 +32,5 @@ Jim Rush
 
 - [Material List](/docs/CommonMaterials.md)
 - [Post](/docs/Post.md)
+- [Base](/docs/Base.md)
+- [Body](/docs/Body.md)
